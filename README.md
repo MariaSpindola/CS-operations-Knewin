@@ -6,13 +6,13 @@
 
 ## 🔗 Acesso Rápido ao Painel Operacional
 
-👉 **[Acessar o Notion Command Center (Painel Interativo Ao Vivo)](https://notion.so/seu-link-publico-aqui)**
+**[Acessar o Notion Command Center (Painel Interativo Ao Vivo)](https://notion.so/seu-link-publico-aqui)**
 
 *(O painel interativo contém o Kanban de Priorização em tempo real, a Matriz de Tiers e as views de alocação de capacidade da agenda).*
 
 ---
 
-## 🎯 1. Tese Operacional e Indicadores Principais
+## 1. Tese Operacional e Indicadores Principais
 
 Em operações de CS em escala SaaS, a priorização não pode ser baseada no volume de chamados ou em métricas isoladas de uso. A estratégia foca na **proteção do MRR crítico** e na alocação de capacidade humana onde o impacto financeiro é maior.
 
@@ -24,7 +24,7 @@ Em operações de CS em escala SaaS, a priorização não pode ser baseada no vo
 
 ---
 
-## 📊 2. Matriz de Segmentação e Priorização (Tiers)
+## 2. Matriz de Segmentação e Priorização (Tiers)
 
 A carteira foi dividida com base em risco x valor financeiro (MRR), direcionando o modelo de atendimento adequado:
 
@@ -39,7 +39,7 @@ A carteira foi dividida com base em risco x valor financeiro (MRR), direcionando
 
 ---
 
-## 🤖 3. Calibração da Inteligência Artificial (Redução de Falsos Positivos)
+## 3. Calibração da Inteligência Artificial (Redução de Falsos Positivos)
 
 O modelo antigo de detecção de churn gerava falsos positivos por analisar métricas isoladas (ex: apenas frequência de login). A nova calibração cruza dados comportamentais e operacionais.
 
